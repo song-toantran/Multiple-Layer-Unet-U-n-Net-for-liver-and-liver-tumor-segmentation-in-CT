@@ -1,1 +1,1 @@
-# A mutiple layer Unet, U^n-Net for liver and liver tumor segmentation in CT
+# A Multiple Layer U-Net, U<sup>n</sup>-Net, for Liver and Liver Tumor Segmentation in CT
